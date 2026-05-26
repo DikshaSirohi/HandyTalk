@@ -184,19 +184,6 @@ HandyTalk is an exploration of what can be achieved using modern generative AI a
 
 ---
 
-# 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-If you'd like to help expand HandyTalk into a real-world accessibility platform:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Submit a pull request
-
----
-
 # 👩‍💻 Author
 
 Developed by Diksha Sirohi  
