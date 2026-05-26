@@ -4,6 +4,9 @@ import pyttsx3
 import os
 from google import genai
 from google.genai import types
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # --- 1. CONFIG & IMAGE-MATCHED STYLING ---
 st.set_page_config(page_title="HandyTalk AI", layout="wide", page_icon="🤟")
